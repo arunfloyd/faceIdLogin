@@ -122,7 +122,7 @@ const Login = () => {
                     )}
                 </div>
                 <p className="text-red-600 font-bold text-lg">{errorMessage}</p>
-                <a href='/'> <p className="p-4 my-6 bg-red-800 w-full rounded-lg flex items-center justify-center">New to the Town? Sign Up</p></a>
+                <a href='/'> <p className="p-2 my-2 bg-red-800 w-full rounded-lg flex items-center justify-center">New to the Town? Sign Up</p></a>
             </form>
         </div>
     );
